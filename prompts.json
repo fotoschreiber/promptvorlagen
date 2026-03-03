@@ -11,9 +11,17 @@
     "title": "Hintergründe zu Pressemitteilungen",
     "text": "Ich gebe Dir jetzt eine Pressemitteilung. Such mir dazu im Archiv weitere Informationen, auch aus anderen Bundesländern und formuliere eine kurze Meldung im Stil der dpa daraus:"
   },
+   {
+    "title": "Faktencheck",
+    "text": "Ist dieser Text inhaltlich korrekt? Prüfe die Fakten."
+  },
   {
     "title": "Zeitstrahl / Chronologie",
     "text": "Erstelle eine Chronologie der wichtigsten Ereignisse und Entwicklungen zum Thema [THEMA] der letzten [ZEITRAUM]."
+  },
+    {
+    "title": "Hintergrundabsatz formulieren",
+    "text": "Erstelle einen Hintergrundabsatz zu:"
   },
   {
     "title": "Thema einordnen",
@@ -28,23 +36,43 @@
     "text": "Fasse den folgenden Text in 3–5 prägnanten Stichpunkten zusammen. Konzentriere dich auf die wichtigsten Kernaussagen."
   },
   {
-    "title": "Konzept ausarbeiten",
-    "text": "Hilf mir, ein Konzept für [Thema] auszuarbeiten. Strukturiere es in: Ziel, Zielgruppe, Hauptpunkte und nächste Schritte."
+    "title": "Pro & Contra",
+    "text": "Formuliere aus den Suchergebnissen Pro- und Contra-Argumenten über das Thema. Berücksichtige dabei verschiedene gesellschaftliche Gruppen und ihre jeweiligen Interessen. Thema:"
   },
   {
-    "title": "Fehler debuggen (Stack Trace)",
-    "text": "Ich bekomme folgenden Fehler/Stack Trace: [Fehler einfügen]. Was bedeutet er und wie behebe ich ihn?"
+    "title": "Debatte skizzieren",
+    "text": "Skizziere die Hauptargumente in der aktuellen öffentlichen und politischen Debatte über das Thema. Wer steht wo, und warum? Thema:"
   },
   {
-    "title": "Dokumentation schreiben",
-    "text": "Schreibe eine klare, präzise Entwickler-Dokumentation für den folgenden Code. Erkläre Parameter, Rückgabewerte und gib ein Verwendungsbeispiel."
+    "title": "Widersprüche erkennen",
+    "text": "Wo gibt es beim Thema Widersprüche zwischen politischen Versprechen und tatsächlicher Umsetzung? Was sagen Fakten und Studien dazu? Thema:"
   },
   {
-    "title": "SQL-Abfrage optimieren",
-    "text": "Bitte analysiere und optimiere diese SQL-Abfrage hinsichtlich Performance. Erkläre, warum deine Änderungen schneller sind."
+    "title": "Historische Einordnung",
+    "text": "Wie hat sich das Thema historisch entwickelt? Was sind die Wurzeln der aktuellen Debatte? Thema:"
   },
   {
-    "title": "Regex erstellen",
-    "text": "Erstelle einen regulären Ausdruck, der [Beschreibung] matcht. Erkläre jeden Teil des Regex und gib Testbeispiele an."
-  }
+    "title": "Konstruktive Ideen",
+    "text": "Welche Lösungsansätze werden beim Thema diskutiert? Welche gelten als realistisch, welche als utopisch – und warum? Thema:"
+  },
+    {
+    "title": "Neue Erzählperspektiven finden",
+    "text": "Ich recherchiere zu einem Thema. Welche ungewöhnlichen, menschlichen oder überraschenden Geschichtenwinkel könnten für ein breites Publikum interessant sein? Thema:"
+  },
+    {
+    "title": "Interviewfragen erstellen",
+    "text": "Erstelle 8–10 kritische, offene Interviewfragen zum Thema [THEMA] für ein Gespräch mit [GESPRÄCHSPARTNER / Funktion]."
+  },
+    {
+    "title": "Was wir wissen / was wir nicht wissen",
+    "text": "Formuliere einen Text im Format "Was wir wissen und was wir nicht wissen" mit den wichtigsten Aspekten zu folgendem Thema:"
+  },
+    {
+    "title": "Offene Fragen eines Themas",
+    "text": "Was wurde bereits zu folgendem Thema berichtet und welche neuen Rechercheansätze siehst Du noch? Thema:"
+  },
+  {
+    "title": "Potenzielle Themen",
+    "text": "Was sind aktuelle journalistische Themen mit Potenzial für eine Weiterdrehe? Welche Aspekte fehlen in den bisherigen Ergebnissen? Mit Fokus auf: [Region oder Thema]"
+  },
 ]

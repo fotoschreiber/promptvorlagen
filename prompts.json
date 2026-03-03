@@ -1,27 +1,27 @@
 [
   {
-    "title": "Test",
-    "text": "Bitte überprüfe diesen Code auf Fehler, Sicherheitsprobleme und Verbesserungsmöglichkeiten. Erkläre jede Anmerkung kurz."
+    "title": "Schnelle Faktenbasis",
+    "text": "Nenne die wichtigsten Fakten, Zahlen und Daten zum Thema [THEMA]. Bitte strukturiert und quellenorientiert."
   },
   {
-    "title": "Test 2",
-    "text": "Ich habe folgenden Bug: [Beschreibung]. Bitte analysiere die möglichen Ursachen und schlage konkrete Lösungen vor."
+    "title": "Thema erklären",
+    "text": "Erkläre das Thema so, dass es auch Leser ohne Vorkenntnisse verstehen. Gehe auf Hintergründe, beteiligte Akteure und aktuelle Relevanz ein. Thema:"
+  },
+   {
+    "title": "Hintergründe zu Pressemitteilungen",
+    "text": "Ich gebe Dir jetzt eine Pressemitteilung. Such mir dazu im Archiv weitere Informationen, auch aus anderen Bundesländern und formuliere eine kurze Meldung im Stil der dpa daraus:"
   },
   {
-    "title": "Code erklären",
-    "text": "Erkläre mir diesen Code Schritt für Schritt, als würdest du einem Anfänger erklären. Gehe auf den Zweck, die Logik und mögliche Stolpersteine ein."
+    "title": "Zeitstrahl / Chronologie",
+    "text": "Erstelle eine Chronologie der wichtigsten Ereignisse und Entwicklungen zum Thema [THEMA] der letzten [ZEITRAUM]."
   },
   {
-    "title": "Refactoring vorschlagen",
-    "text": "Wie würdest du diesen Code refactorn, um ihn lesbarer, wartbarer und effizienter zu machen? Bitte zeige konkrete Vorher-Nachher-Beispiele."
+    "title": "Thema einordnen",
+    "text": "Wie ordnet sich das Thema in den größeren politischen / gesellschaftlichen / wirtschaftlichen Kontext ein? Thema:"
   },
   {
-    "title": "Unit Tests schreiben",
-    "text": "Schreibe umfassende Unit Tests für den folgenden Code. Decke Randfälle, Fehlerfälle und den Happy Path ab."
-  },
-  {
-    "title": "Professionelle E-Mail schreiben",
-    "text": "Schreibe eine professionelle, freundliche E-Mail zu folgendem Thema: [Thema]. Der Ton soll sachlich aber persönlich sein."
+    "title": "Kritik beleuchten",
+    "text": "Welche Kritik gibt es am Thema? Bitte differenziere nach Perspektiven (z. B. politisch, wissenschaftlich, zivilgesellschaftlich) und nenne konkrete Argumente. Thema:"
   },
   {
     "title": "Zusammenfassung erstellen",

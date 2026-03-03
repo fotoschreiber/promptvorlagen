@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Code Review anfragen",
+    "text": "Bitte überprüfe diesen Code auf Fehler, Sicherheitsprobleme und Verbesserungsmöglichkeiten. Erkläre jede Anmerkung kurz."
+  },
+  {
+    "title": "Bug analysieren",
+    "text": "Ich habe folgenden Bug: [Beschreibung]. Bitte analysiere die möglichen Ursachen und schlage konkrete Lösungen vor."
+  },
+  {
+    "title": "Code erklären",
+    "text": "Erkläre mir diesen Code Schritt für Schritt, als würdest du einem Anfänger erklären. Gehe auf den Zweck, die Logik und mögliche Stolpersteine ein."
+  },
+  {
+    "title": "Refactoring vorschlagen",
+    "text": "Wie würdest du diesen Code refactorn, um ihn lesbarer, wartbarer und effizienter zu machen? Bitte zeige konkrete Vorher-Nachher-Beispiele."
+  },
+  {
+    "title": "Unit Tests schreiben",
+    "text": "Schreibe umfassende Unit Tests für den folgenden Code. Decke Randfälle, Fehlerfälle und den Happy Path ab."
+  },
+  {
+    "title": "Professionelle E-Mail schreiben",
+    "text": "Schreibe eine professionelle, freundliche E-Mail zu folgendem Thema: [Thema]. Der Ton soll sachlich aber persönlich sein."
+  },
+  {
+    "title": "Zusammenfassung erstellen",
+    "text": "Fasse den folgenden Text in 3–5 prägnanten Stichpunkten zusammen. Konzentriere dich auf die wichtigsten Kernaussagen."
+  },
+  {
+    "title": "Konzept ausarbeiten",
+    "text": "Hilf mir, ein Konzept für [Thema] auszuarbeiten. Strukturiere es in: Ziel, Zielgruppe, Hauptpunkte und nächste Schritte."
+  },
+  {
+    "title": "Fehler debuggen (Stack Trace)",
+    "text": "Ich bekomme folgenden Fehler/Stack Trace: [Fehler einfügen]. Was bedeutet er und wie behebe ich ihn?"
+  },
+  {
+    "title": "Dokumentation schreiben",
+    "text": "Schreibe eine klare, präzise Entwickler-Dokumentation für den folgenden Code. Erkläre Parameter, Rückgabewerte und gib ein Verwendungsbeispiel."
+  },
+  {
+    "title": "SQL-Abfrage optimieren",
+    "text": "Bitte analysiere und optimiere diese SQL-Abfrage hinsichtlich Performance. Erkläre, warum deine Änderungen schneller sind."
+  },
+  {
+    "title": "Regex erstellen",
+    "text": "Erstelle einen regulären Ausdruck, der [Beschreibung] matcht. Erkläre jeden Teil des Regex und gib Testbeispiele an."
+  }
+]

@@ -3,6 +3,10 @@
     "title": "Schnelle Faktenbasis",
     "text": "Nenne die wichtigsten Fakten, Zahlen und Daten zum Thema [THEMA]. Bitte strukturiert und quellenorientiert."
   },
+    {
+    "title": "Neue Aspekte",
+    "text": "Gleiche folgende Informationen mit dem ab, was dpa schon zum Thema berichtet hat und zeige an, welche Aspekte neu sind und bisher noch nicht von dpa aufgegriffen worden sind:"
+  },
   {
     "title": "Thema erklären",
     "text": "Erkläre das Thema so, dass es auch Leser ohne Vorkenntnisse verstehen. Gehe auf Hintergründe, beteiligte Akteure und aktuelle Relevanz ein. Thema:"
